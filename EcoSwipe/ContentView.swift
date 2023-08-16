@@ -15,7 +15,7 @@ struct ContentView: View {
         ZStack {
             Color(.green)
         
-            
+            //commit
         
             VStack(spacing: 10) {
                 
@@ -62,7 +62,7 @@ struct ContentView: View {
               
             
         }
-        .padding(.vertical, 0.0)
+        .padding()
             
         }
 
